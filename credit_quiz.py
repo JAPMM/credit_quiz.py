@@ -184,4 +184,3 @@ if st.button("Submit Quiz"):
     st.write("---")
     st.markdown(f"## 🎉 Final Score: {score} / {len(questions_this_quiz)}")
 
-st.info("To add more questions or edit translations, update the QUESTIONS_CREDIT_BEGINNER list at the top of the script.")
